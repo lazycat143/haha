@@ -1,0 +1,30 @@
+td {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+caption { 
+    background-color: aqua;
+    font-size: 20px;
+}
+.red {
+    background-color:red;
+    color: aliceblue;
+}
+.yellow {
+    background-color: yellow;
+    font-size: larger;
+}
+.green { 
+    background-color: green;
+    color: aliceblue;
+}
+.hui {
+    width: 100px;
+    height: 50px;
+    background-color: #DDDDDD;}
+    .penic {
+        width: 100px;
+        height: 50px;
+        background-color: yellow;
+    }
